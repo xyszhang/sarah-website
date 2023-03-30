@@ -1,0 +1,23 @@
+---
+title: "About Me"
+about:
+  template: jolla
+  image: aboutme.jpeg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Sarah Zhang is an innovative user interface and user experience designer with a multidisciplinary background in media communications and information technology. She loves solving problems in unconventional and creative ways. When not designing user interfaces, Sarah enjoys spending time reading and watching sci-fi and fantasy shows.
+
+## Contact
+(647)937-1463
+
+sarah.zhang116@gmail.com
+
+
+
